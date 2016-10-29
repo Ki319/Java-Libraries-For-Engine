@@ -17,5 +17,25 @@
 			<attribute name="javadoc_location" value="jar:platform:/resource/Java-Libraries-For-Engine/doc/commons-codec-javadoc.jar!/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="jar/commons-configuration.jar" sourcepath="src/commons-configuration-src.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Engine%20Libraries/doc/commons-configuration-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="jar/commons-io.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Engine%20Libraries/doc/commons-io-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="jar/commons-logging.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Engine%20Libraries/doc/commons-logging-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="jar/commons-math.jar" sourcepath="src/commons-math-src.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Engine%20Libraries/doc/commons-math-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
