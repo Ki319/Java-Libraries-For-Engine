@@ -55,5 +55,6 @@
 	<classpathentry exported="true" kind="lib" path="jar/httpmime-4.5.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="jar/jna-4.1.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="jar/json-20160810.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
